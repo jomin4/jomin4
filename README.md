@@ -78,7 +78,7 @@
 | 인프라 · 배포 | [docker](https://github.com/jomin4/prgrms-docker) <br> [aws](https://github.com/jomin4/prgrms-aws) |
 | 프론트엔드 | [react_tailwind](https://github.com/jomin4/prgrms-react_tailwind) <br> [spring_nextjs_auth](https://github.com/jomin4/prgrms-spring_nextjs_auth) <br> [spring_nextjs_sociallogin](https://github.com/jomin4/prgrms-spring_nextjs_sociallogin) <br> [my_notepad_app](https://github.com/jomin4/prgrms-my_notepad_app) <br> [matt-pocock](https://github.com/jomin4/prgms-matt-pocock) <br> [remotion_short](https://github.com/jomin4/prgrms-remotion_short) |
 
-### 🚀 프로젝트
+### 🚀팀 프로젝트
 
 | 차수 | 저장소 | 설명 | 기간 |
 | :---: | --- | --- | --- |
