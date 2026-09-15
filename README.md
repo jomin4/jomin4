@@ -23,11 +23,15 @@
 
 > 📖 강의 · 📕 서적 · 🤖 에이전트(AI와 함께 실습) 로 나누어 학습한 저장소를 정리했습니다.
 
+<!-- 저장소 이름 규칙: tec-기술명-학습경로(lecture · book · agent) -->
 | 기술 | 📖 강의 | 📕 서적 | 🤖 에이전트 |
 | :---: | --- | --- | --- |
 | Java |  |  |  |
-| Kotlin |  |  |  |
-| Spring |  |  |  |
+| Kotlin |  |  | [tec-kotlin-agent](https://github.com/jomin4/tec-kotlin-agent) |
+| Spring |  |  | [tec-spring-agent](https://github.com/jomin4/tec-spring-agent) |
+| Node.js |  |  | [tec-node-agent](https://github.com/jomin4/tec-node-agent) |
+| Next.js |  |  | [tec-next-agent](https://github.com/jomin4/tec-next-agent) |
+| Supabase |  |  | [tec-supabase-agent](https://github.com/jomin4/tec-supabase-agent) |
 
 
 <br>
