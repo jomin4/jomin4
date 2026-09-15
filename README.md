@@ -41,9 +41,11 @@
 
 ### 🙋 개인 프로젝트
 
+<!-- 저장소 이름 규칙: pi-프로젝트명 -->
 | 프로젝트 | 설명 | 기술 | 기간 |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| [pi-jobfit](https://github.com/jomin4/pi-jobfit) |  |  |  |
+| [pi-reservation-system](https://github.com/jomin4/pi-reservation-system) |  |  |  |
 
 ### 🤝 협업 프로젝트
 
@@ -53,9 +55,11 @@
 
 ### 🤖 바이브코딩
 
+<!-- 저장소 이름 규칙: pb-프로젝트명 -->
 | 프로젝트 | 설명 | 사용 도구 | 기간 |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| [pb-geeknews_rag](https://github.com/jomin4/pb-geeknews_rag) |  |  |  |
+| [pb-aladin-book-rag](https://github.com/jomin4/pb-aladin-book-rag) |  |  |  |
 
 <br>
 
